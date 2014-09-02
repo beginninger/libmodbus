@@ -52,3 +52,7 @@ debian/libmodbus5/
 debian/stamp-*
 debian/tmp/
 debian/libmodbus-dbg/
+
+*.svn
+*.py
+*.pyc
